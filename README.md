@@ -1,7 +1,7 @@
 SparkFun GitHub API Scripts
 ============================
 
-Demo scripts for Enginursday post[GitHub API Intro](https://www.sparkfun.com/news/1913). 
+Demo scripts for Enginursday post [GitHub API Intro](https://www.sparkfun.com/news/1913). 
 
 You must have [Python](https://www.python.org/) and the [agithub](https://github.com/jpaugh/agithub) module installed for these to run.
 
